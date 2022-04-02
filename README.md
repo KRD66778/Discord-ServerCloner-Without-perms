@@ -1,5 +1,7 @@
-## Join my Discord server please! also star this repl so we will help if you got any error or no help lol!
+## Join Coding India + my Discord server please! also star this repl so we will help if you got any error or no help lol!
+- [Join Coding India Discord Server](https://discord.gg/ypByysHh)
 -  [Join My Discord Server](https://discord.gg/avFmqYUPdq)
+-  
 
 
 
