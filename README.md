@@ -1,5 +1,5 @@
 ## Join my Discord server please! also star this repl so we will help if you got any error or no help lol!
-- download exe version [clickhere](https://discord.gg/avFmqYUPdq)
+-  [Join My Discord Server](https://discord.gg/avFmqYUPdq)
 
 
 
