@@ -5,7 +5,7 @@ import psutil
 from pypresence import Presence
 import time
 import sys
-client_id = '909750113117802506'
+client_id = 'paste your discord user id here'
 import discord
 import asyncio
 import colorama
