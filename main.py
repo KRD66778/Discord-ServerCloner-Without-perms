@@ -23,7 +23,7 @@ else:
 print(f"""{Fore.RED}
 e
 {Style.RESET_ALL}
-                                                            {Fore.MAGENTA}Developed by: me.{Style.RESET_ALL}
+                                                            {Fore.MAGENTA}Developed by: KRD66778.{Style.RESET_ALL}
         """)
 token = input(f'Please enter your token:\n >')
 guild_s = input('Please enter guild id you want to copy:\n >')
